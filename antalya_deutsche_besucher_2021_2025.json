@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "dataset": "Deutsche Besucher am Flughafen Antalya 2021 bis 2025",
+    "definition": "Ankuenfte deutscher Staatsbuerger ueber die Flughaefen Antalya (AYT) und Gazipasa (GZP), internationale Fluege, laut Antalya Il Kültür ve Turizm Müdürlügü (Provinzdirektion fuer Kultur und Tourismus). Gezaehlt wird die Nationalitaet, nicht der Abflugort.",
+    "besucher_gesamt_definition": "Alle Ankuenfte (Auslaender plus im Ausland lebende tuerkische Staatsbuerger) ohne Transferpassagiere",
+    "berechnete_felder": "veraenderung_vorjahr_prozent und anteil_deutschland_prozent sind aus den Quellwerten berechnet",
+    "license": "CC BY 4.0",
+    "attribution": "flughafen-live.de",
+    "maintainer_url": "https://flughafen-live.de/flughafen-antalya/",
+    "stand": "2026-07-13"
+  },
+  "daten": [
+    {
+      "airport_iata": "AYT",
+      "airport_name_de": "Antalya",
+      "jahr": 2021,
+      "besucher_deutschland": 1268179,
+      "veraenderung_vorjahr_prozent": null,
+      "besucher_gesamt": 9094051,
+      "rang_deutschland": 3,
+      "quelle": "Hürriyet / Antalya Il Kültür ve Turizm Müdürlügü",
+      "quelle_url": "https://www.hurriyet.com.tr/ekonomi/antalya-2021-yilinda-9-milyon-94-bin-turist-agirladi-ilk-sirayi-ruslar-aldi-41973044",
+      "hinweis": "Platz 3 hinter Russland und der Ukraine; Gesamtzahl laut Quelle inkl. weniger Seeweg-Ankuenfte",
+      "anteil_deutschland_prozent": 13.9
+    },
+    {
+      "airport_iata": "AYT",
+      "airport_name_de": "Antalya",
+      "jahr": 2022,
+      "besucher_deutschland": 2826000,
+      "veraenderung_vorjahr_prozent": 122.8,
+      "besucher_gesamt": 13432593,
+      "rang_deutschland": 2,
+      "quelle": "Milliyet / DHA, Erklaerung des Gouverneurs Ersin Yazici",
+      "quelle_url": "https://www.milliyet.com.tr/ekonomi/antalya-turizmine-2022-dopingi-yuzde-48-artis-13-4-milyon-turist-6881971",
+      "hinweis": "Gerundete offizielle Angabe (2 Millionen 826 Tausend)",
+      "anteil_deutschland_prozent": 21.0
+    },
+    {
+      "airport_iata": "AYT",
+      "airport_name_de": "Antalya",
+      "jahr": 2023,
+      "besucher_deutschland": 3363510,
+      "veraenderung_vorjahr_prozent": 19.0,
+      "besucher_gesamt": 15689258,
+      "rang_deutschland": 2,
+      "quelle": "Anadolu Ajansi / Kültür ve Turizm Il Müdürlügü",
+      "quelle_url": "https://www.aa.com.tr/tr/ekonomi/antalya-2023te-15-milyon-689-bin-258-yabanci-turist-agirladi/3097878",
+      "hinweis": "",
+      "anteil_deutschland_prozent": 21.4
+    },
+    {
+      "airport_iata": "AYT",
+      "airport_name_de": "Antalya",
+      "jahr": 2024,
+      "besucher_deutschland": 3517589,
+      "veraenderung_vorjahr_prozent": 4.6,
+      "besucher_gesamt": 16925349,
+      "rang_deutschland": 2,
+      "quelle": "Hürriyet / AA, Angaben von Tourismusminister Ersoy",
+      "quelle_url": "https://www.hurriyet.com.tr/avrupa/antalya-2024te-en-fazla-rus-ve-alman-turisti-agirladi-42647119",
+      "hinweis": "Gesamt ohne 352.754 Transferpassagiere; inkl. Transfer 17.278.103",
+      "anteil_deutschland_prozent": 20.8
+    },
+    {
+      "airport_iata": "AYT",
+      "airport_name_de": "Antalya",
+      "jahr": 2025,
+      "besucher_deutschland": 3554921,
+      "veraenderung_vorjahr_prozent": 1.1,
+      "besucher_gesamt": 17122548,
+      "rang_deutschland": 2,
+      "quelle": "Turizmdays / Kültür ve Turizm Il Müdürlügü Jahresdaten",
+      "quelle_url": "https://www.turizmdays.com/news/antalya-turizminde-rusya-ve-almanya-zirveyi-birakmadi-31596.html",
+      "hinweis": "Gegenprobe: DHA/Kemer Gözcü nennt dieselbe Gesamtzahl 17.122.548",
+      "anteil_deutschland_prozent": 20.8
+    }
+  ]
+}
